@@ -10,6 +10,8 @@ December 2025: A two hour workshop on Docker sponsored by UW IT Research Computi
 - `prime-checker` is a project folder: For creating a Container that evaluates integers as prime / not-prime
 - `prime-frontend` is a related project folder: The resulting Container is a web app
 - `resnet-classifier` is an image classifier built on resnet-50
+    - **WARNING** in practice the resnet-classifier did not work for many students
+    - ...so it needs some testing and bulletproofing and debugging...
 
 
 ## Links
