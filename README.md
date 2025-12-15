@@ -1,6 +1,7 @@
 # Docker Containers Tutorial
 
-December 2025: A two hour workshop on Docker sponsored by UWIT Research Computing. 
+## Overview
+Learn the basics of containerization for research computing using Docker. We will build a coherent picture covering Docker Files, Images, and Containers; in concert with container registries and job execution, specifically container allocation, monitoring and orchestration. Central to this program is understanding how we connect a hermetic Container to external controls and data.
 
 - [DOCKER_CONCEPTS_QA.md](./DOCKER_CONCEPTS_QA.md) is a "Q&A" format view of Docker containerization
 - [DOCKER_WORKSHOP_REFERENCE.md](./DOCKER_WORKSHOP_REFERENCE.md) concerns docker commands and workflows
